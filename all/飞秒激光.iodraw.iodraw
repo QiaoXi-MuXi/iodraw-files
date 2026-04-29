@@ -49,8 +49,14 @@
         <mxCell id="2sS2Nen09ABY6ED4YghF-9" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;激光功率&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="95" y="350" width="40" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="2sS2Nen09ABY6ED4YghF-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="2sS2Nen09ABY6ED4YghF-10" target="2sS2Nen09ABY6ED4YghF-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2sS2Nen09ABY6ED4YghF-10" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;作用时间&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="165" y="350" width="40" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="2sS2Nen09ABY6ED4YghF-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="2sS2Nen09ABY6ED4YghF-11" target="2sS2Nen09ABY6ED4YghF-22">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2sS2Nen09ABY6ED4YghF-11" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;激光能量&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#A8DADC;strokeColor=#457B9D;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="235" y="350" width="40" height="190" as="geometry" />
